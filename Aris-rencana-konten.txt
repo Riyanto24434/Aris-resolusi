@@ -5,6 +5,7 @@ Rencana konten:
 -CSS
  1. Pengantar
  2. Contoh
+ 3. Praktik
 -Java Script
  1. ES6
  2. Framework Javascript
