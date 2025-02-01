@@ -3,4 +3,8 @@ Rencana konten:
  1. Pengantar
  2. Contoh
 -CSS
+ 1. Pengantar
+ 2. Contoh
 -Java Script
+ 1. ES6
+ 2. Framework Javascript
